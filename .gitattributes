@@ -1,0 +1,5 @@
+bs.mp4 filter=lfs diff=lfs merge=lfs -text
+dc.mp4 filter=lfs diff=lfs merge=lfs -text
+lan-cable.jpg filter=lfs diff=lfs merge=lfs -text
+sog.mp4 filter=lfs diff=lfs merge=lfs -text
+k.jpg filter=lfs diff=lfs merge=lfs -text
